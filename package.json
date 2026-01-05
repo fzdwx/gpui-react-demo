@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "bun-types": "^1.3.5",
-    "gpui-react": "^0.1.8",
+    "gpui-react": "^0.1.10",
     "react": "^19.2.3",
     "typescript": "^5.9.3"
   }
